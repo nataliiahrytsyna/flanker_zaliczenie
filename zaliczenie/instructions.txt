@@ -1,0 +1,8 @@
+################## Modify the text below to change the instructions. DO NOT modify this line. ####################
+Welcome to the experiment. (Press SPACE to continue.)
+In this task, you will be presented with a series of screens containing arrow signs: (> and <). Each screen will appear for 1 seconds. (Press SPACE to continue.)
+Your goal is to find the RED arrow (< or >) and press the arrow key (left or right) corresponding to its direction as fast as you can. (Press SPACE to continue.)
+We'll start with two short trainings. (Press T to begin the training 1 of 2.)
+Training 2 of 2 (Press SPACE to proceed.)
+End of Training. Well done! Press SPACE once you're ready to start the task.
+One minute break.
