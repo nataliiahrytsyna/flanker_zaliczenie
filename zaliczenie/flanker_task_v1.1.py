@@ -21,7 +21,7 @@ def display_instructions():
         instruct.draw()
         psychopy.event.waitKeys(keyList=[key])
         window.flip()
-        core.wait(cooldown)  # cooldown chroni przed przeskakiwaniem wielu okien
+        core.wait(cooldown)  # cooldown can be set to prevent accidentaly jumping over multiple pages of instructions
 
     welcome = visual.TextStim(win=window, text=instructions[0], pos=(0.0, 0.0))
     # holds the welcome screen until any key is pressed
